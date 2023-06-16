@@ -1,1 +1,1 @@
-# arxiv-bot
+# Arxiv Bot
